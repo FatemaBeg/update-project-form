@@ -1,0 +1,13 @@
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\bin\Debug\ProectWindowsFormsApp1.exe.config
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\bin\Debug\ProectWindowsFormsApp1.exe
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\bin\Debug\ProectWindowsFormsApp1.pdb
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\obj\Debug\ProectWindowsFormsApp1.Product.resources
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\obj\Debug\ProectWindowsFormsApp1.Properties.Resources.resources
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\obj\Debug\ProectWindowsFormsApp1.Purchase.resources
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\obj\Debug\ProectWindowsFormsApp1.Supplier.resources
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\obj\Debug\ProectWindowsFormsApp1.csproj.GenerateResource.cache
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\obj\Debug\ProectWindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\obj\Debug\ProectWindowsFormsApp1.exe
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\obj\Debug\ProectWindowsFormsApp1.pdb
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\obj\Debug\ProectWindowsFormsApp1.CategoryUi.resources
+D:\practice\ProectWindowsFormsApp1\ProectWindowsFormsApp1\obj\Debug\ProectWindowsFormsApp1.CustomerUi.resources
